@@ -10,12 +10,12 @@
 	"editor.insertSpaces": false,
 	"editor.renderWhitespace": "boundary",
 	"editor.minimap.enabled": true,
-	"workbench.colorTheme": "Monokai Dimmed",
+	"workbench.colorTheme": "Default High Contrast",
 	"workbench.iconTheme": "vs-seti",
 	"editor.lineNumbers": "on",
-	"editor.renderIndentGuides": true,
+	"editor.renderIndentGuides": false,
 	"editor.renderLineHighlight": "gutter",
 	"editor.formatOnSave": true,
 	"editor.formatOnType": true,
 	"editor.formatOnPaste": true
-}
+}	
